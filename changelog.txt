@@ -1,0 +1,198 @@
+[B]0.3.5[/B]
+• Revert Artist Name colour on music Artist BIO panel to 'Colour-Focus' and 'Bold'
+• EOL development for Kodi Matrix. Next release will be for Kodi Nexus.
+
+[B]0.3.4[/B]
+• Height fixed for Bookmark and player process info panels.
+• Amount of TV timeshift available changed to to limegreen colour and amount of timeshift unavailable changed to bright red colour.
+• Colour of EPG progress indicator changed to white to give better visibility 
+
+[B]0.3.3[/B]
+• New skin setting added to display Live TV Artwork as fanart/thumbnail format instead of poster artwork. 
+
+[B]0.3.2[/B]
+• Tweaks to OSD Info panel size and layout for Video and Live TV items. 
+• New option for Live TV to display controls OSD without PVR poster artwork and show channel number and channel name instead. This is now the default behaviour for Live TV. 
+• New skin setting added to display library stats on System Information window (Default setting is 'Off').
+• New option for OSD Channels Dialog to show channal icon instead of PVR poster artwork. Alignment of programme Title fixed. Season / Episode / Episode Name added to plot panel.
+• OSD Guide Dialog layout changed.
+• New Film tag and film media flag added to Live TV EPG screen to indicate film/movie items. 
+
+[B]0.3.1[/B]
+• Fixed textbox height for plot on Live TV programmes on OSD Info panel. 
+• Navigation improved when using home screen widgets. 
+• New skin setting added to display library stats on System Information window (Default setting is 'Off').
+• New skin setting that adds Context Menu Options to Choose and Update Scraper for TV Highlights Widget. (Default setting is 'Off')
+• New skin setting that displays new media flag for TV Recordings added to your Movie and TV Show Libraries (.TS Files Only) 
+• New skin setting to hide channel number on EPG Screen (Default setting is 'NOT' to hide channel number) 
+• New skin setting added that sets the number of viewable hours of guide data displayed on the EPG Screen (options available '1Hr / 1.5Hrs / 2Hrs (Default) / 2.5Hrs / 3Hrs / 4Hrs)
+
+[B]0.3.0[/B]
+• New skin setting added for 'Home Screen' items.
+• Support for 'TV Highlights' Widget added to 'Live TV Home Screen' which can be enabled via Skin Settings. (Many thanks to _BJ1)
+• Animated equaliser on music OSD can now be disabled via skin settings.
+• New setting added to 'Home Screen' option on skin settings to display media title / PVR info labels after widget heading.
+
+[B]0.2.9[/B]
+• New artwork skin setting to Enable Skin Helper Artwork. (many thanks to Fuchs2468)
+• New artwork skin setting to display online album cover, artist fanart and clearlogo when playing RDS Radio (if available). (many thanks to Fuchs2468)
+• Amount of timeshift cached during playback on the OSD now highlighted in red. 
+
+[B]0.2.8[/B]
+• More refinements to OSD, most notably the introduction of transparent panels for OSD info panel, Actor panel, Bookmark panel, Player Process panel and Artist Bio panel instead of previous colourised panels.
+• Season, Episode and Episode Title added to info panel for TV Shows.
+• Genre added to info panel for Movie and Music Video titles.
+• New setting added to skin general settings to disable 'Top Left-Handside Breadcrumb labels' during playback if desired.
+• New 'Iolite' (Dark Blue) colour theme added.
+
+[B]0.2.7[/B]
+• PVR Artwork visibility fixed on PVR OSD Guide and Channel Dialogs.
+• New widget added to TV Show Home Screen for 'Continue Watching (Episodes)'
+• Existing TV Show widgets re-ordered.
+
+[B]0.2.6[/B]
+• OSD Auto-Hide feature added. Different times can bt set via skin settings. (many thanks to _BJ1) 
+
+[B]0.2.5[/B]
+• Removal of channel logo, channel number and channel name from OSD info panel.
+• Season and episode numbers added to EPG plot and OSD info panel.
+• Various new genre icons added to EPG screen.
+• Channel logo added to TopBar Overlay.
+• New music song layout that includes user star rating.
+
+[B]0.2.4[/B]
+• New priority order set for PVR Artwork.
+• New music playlist widget added to Music Home Screen.
+• Clearart for movie and TV shows now correctly positioned above OSD.
+• Support for Animated PVR Posters removed.
+• Complete tidy-up of PVR Artwork variables.
+
+[B]0.2.3[/B]
+• New option added to Music OSD settings Dialog to display Next 10 tracks above Music OSD.
+• Tweak of OSD to properly show Artist and Song for RDS Radio Broadcasts.
+• New RDS media flag added.
+
+[B]0.2.2[/B]
+• Complete re-design of OSD and OSD Info Panels to make the 'look & feel' more aligned with the default Estuary Skin.
+• Removal of addon icons and content type from OSD.
+• Removal of Black Colour theme.
+• Removal of EmbyCon Main Menu Items for Movies and TV Shows.
+
+[B]0.2.1[/B]
+• Main menu items added for EmbyCon Movies and TV Shows.
+• Ability to enable to EmbyCon main menu items added to skin settings.
+• Ability to create custom Embycon category nodes added.
+• Netflix main menu item removed.
+
+[B]0.2.0[/B]
+• Main menu item added for Netflix addon.
+• Support added for custom Netflix Category widgets to be created.
+• Various widgets added to Netflix Home Page for items that have been exported from Netflix addon to Kodi libraries.
+
+[B]0.1.9[/B]
+• New PVR setting added to Skin Settings to allow users to switch from strip genre colour format on EPG screen to standard block genre colour format.
+• New PVR setting added to Skin Settings to allow users to switch from landscape images for TV Recordings on the Home Screen to fanart images removed. 
+• New PVR setting added to Skin Settings to allow users to switch from standard TV Recordings layout on the Home Screen to show artwork. 
+• New PVR setting added to Skin Settings to allow users to switch from standard 'Last Played Channel' layout on the Home Screen to display fanart images (local artwork only). 
+
+[B]0.1.8[/B]
+• New PVR setting added to Skin Settings to allow users to switch from landscape images for TV Recordings on the Home Screen to fanart images. 
+
+[B]0.1.7[/B]
+• New Artwork setting added to Skin Settings to allow users to switch from the default large Movie/TV Show posters on the Home Screen to smaller sized posters. 
+
+[B]0.1.6[/B]
+• Minor Tweak to Music OSD.
+• Layout of Live Radio Channels OSD changed to match the same OSD layout as Live TV Channels.
+
+[B]0.1.5[/B]
+• New radiobutton option added to Skin Settings Window to Enable/Disable clearart above OSD for movies and TV shows.
+• All files in contained media folder compiled into new Texture.xbt file.
+
+[B]0.1.4[/B]
+• New Recommended Songs Widget added to Music Home Screen.
+• Layout tweaks to PlayerPlot.xml file.
+• Layout and Poster tweaks to DialogPVRChannelGuide.xml file.
+• Layout tweaks to DialogSeekBar.xml file.
+• New setting added to OSD Settings to display clearart for Movies and TVshows only.
+
+[B]0.1.3[/B]
+• Duration list item label for PVR windows updated to new variable.
+• Increased new PVR recording icon slightly.
+
+[B]0.1.2[/B]
+• New EPG Layout changes completed.
+• New sidebar options added to PVR windows.
+• Support for New 'Next-UP' dialog for Live TV programmes added (Thanks to Guilouz)
+• Duration info labels corrected to right format.
+
+[B]0.1.1[/B]
+• 3 new skin views added (Flix Large, Flix Wide and Flix Landscape)
+• Position of 'Now Playing' breadcrumb labels changed on TV channels, Recordings and Timer windows.
+• New Layouts for TV Channels Window (PVR+ Big List and PVR+ Now-Next)
+• New Layouts for PVR Recordings and Timer Windows.
+• New options added to Music OSD settings (Disable Discart, Enable Artist Clearlogo, Enable Scrolling Text)....Thanks to Guilouz.
+
+[B]0.1.0[/B]
+• New 'Live' and 'New' LiveTV flags added.
+• Seek-Bar at the top of screen fixed for Live TV.
+• Plot alignment fixed on Player Plot Dialog when Timeshift has been activated.
+• Live TV OSD Button height position adjusted slightly.
+
+[B]0.0.9[/B]
+• When using Local PVR Artwork option, skin will now detect any missing artwork and use the Skin Helper Script to fill the gaps if the SHS option is also enabled in the PVR skin settings.
+• New layout created for the PVR Info Dialog that resembles the the current Video Info Dialog for Movies/TV Shows.
+• Additional New variables added to the variable.xml file.
+
+[B]0.0.8[/B]
+• New background texture added.
+• New OSD layout for Live TV recordings completed.
+• New 4K and My Watchlist widgets added to Movie Home Menu.
+• New additional PVR settings added to EstuaryPVR+ skin settings.
+• Support for local PVR artwork added. Now functional on all Live TV OSD's.
+• Recent Recordings widget on main Live TV home menu now supports local landscape image.
+• More new variables added to variable.xml file.
+• More 'EN' language strings added.
+
+[B]0.0.7[/B]
+• New runtime and endtime flags added.
+• New Premiered flag added.
+• New Variables added to variable.xml
+• New strings added to English language
+• Text Help Labels updated for Live TV and Video file OSD.
+• Text Help Labels updated for Music OSD.
+• New layout for Music OSD completed.
+• New Artist Biography button and Dialog added to Music OSD.
+• New Custom Artist Biography.xml created.
+• New Actor Button and Dialog on Movie and TV Show OSD completed. (Thanks Guilouz)
+• New Custom ActorList.xml created. (Thanks Guilouz)
+• Support for New OSD flags for Local Library, Netflix, Amazon Prime, iplayer, Youtube and Emby added.
+
+[B]0.0.6[/B]
+• 3 New skin colour themes created (Black, Claret and Cobalt)
+• Show Info code on DialogSeekBar.xml disbaled in favour of new Custom Player Plot/Info Dialog.xml
+• New layout of Live TV OSD Buttons created.
+• New last channel button added to LiveTV OSD
+• New layout for LiveTV OSD Completed.
+• New button layout for video file OSD added.
+• New layout for DialogPlayerProcessInfo.xml created.
+• New layout for VideoOSDBookmarks.xml created.
+• New layout for DialogPVRChannelsOSD.xml created.
+
+[B]0.0.5[/B]
+• Initial Layout changes to OSD panel.
+• Support added for Colourised OSD panel.
+• Media flags updated to colourised files.
+• New Live TV Recording Button.
+
+[B]0.0.4[/B]
+• Added additional media folders and media files to main media folder.
+
+[B]0.0.3[/B]
+• Updated old Estuary xml files, fonts, colours and Media files
+
+[B]0.0.2[/B]
+• Updated addon.xml and changelog files
+
+﻿[B]0.0.1[/B]
+• Initial commit
